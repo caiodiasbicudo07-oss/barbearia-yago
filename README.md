@@ -1,4 +1,4 @@
-# 💈 Barbearia do Yago
+# 💈 Barbearia 
 
 Site institucional desenvolvido para a **Barbearia do Yago**, com foco em apresentar os serviços, facilitar o contato com clientes e fortalecer a presença digital da barbearia.
 
